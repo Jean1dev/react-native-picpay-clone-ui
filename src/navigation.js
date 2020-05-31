@@ -4,7 +4,7 @@ import { AntDesign, Ionicons } from '@expo/vector-icons'
 import Home from './pages/home'
 import Pay from './pages/pay'
 import Wallet from './pages/wallet'
-import PayButton from './components/payButton.index'
+import PayButton from './components/payButton'
 
 const Tab = createBottomTabNavigator()
 const icons = {
